@@ -14,9 +14,9 @@ When it comes to wide receivers in fantasy football, one thing we know is import
 | 2025 | 0.881 |
 
 ## Results
-![2023 Graph](fantasy_production_vs_target_volume2023.png)
-![2024 Graph](fantasy_production_vs_target_volume2024.png)
-![2025 Graph](fantasy_production_vs_target_volume2025.png)
+![2023 Graph](figures/fantasy_production_vs_target_volume2023.png)
+![2024 Graph](figures/fantasy_production_vs_target_volume2024.png)
+![2025 Graph](figures/fantasy_production_vs_target_volume2025.png)
 
 ## Opportunity vs Offensive Efficiency
 
