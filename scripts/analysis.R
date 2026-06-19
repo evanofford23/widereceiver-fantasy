@@ -95,7 +95,7 @@ ggplot(
   ) +
   
   geom_smooth(
-    data = data,
+    data = wr_data,
     aes(x = avg_targets, y = avg_fpts),
     method = "lm",
     color = "black",
